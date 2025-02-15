@@ -34,7 +34,7 @@ I am currently a PhD candidate at the School of [Computer Science](https://cs.cu
 
 **Cross-level Interaction and Multi-granularity Contrastive Learning for Multi-view Clustering** \\
 **Shanghui Deng**, Chang Tang, Chuankun Li, Xingchen Hu, Sen Xiang, Xinzhong Zhu, Xinwang Liu\\
-Under Review.\\
+Under Review\\
 \[PDF\] \[BibTex\] [Code(Github)](https://github.com/Shanghui-Deng/CLMGC)
 </div>
 </div>
@@ -44,7 +44,7 @@ Under Review.\\
 
 **scSPAF: Cell Similarity Purified  Adaptive Fusion Network for Single-Cell Multi-Omics Clustering** \\
 **Shanghui Deng**, Chang Tang, Xinwang Liu, Xiao Zheng, Yuanyuan Liu, Shan An\\
-Under Review.\\
+Under Review\\
 \[PDF\] \[BibTex\] [Code(Github)](https://github.com/Shanghui-Deng/scSPAF)
 </div>
 </div>
