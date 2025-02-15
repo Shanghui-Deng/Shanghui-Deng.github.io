@@ -35,13 +35,13 @@ I am currently a PhD candidate at the School of [Computer Science](https://cs.cu
 [RRIFLoc: Radio Robust Image Fingerprint Indoor Localization Algorithm Based on Deep Residual Networks](https://ieeexplore.ieee.org/abstract/document/9975263) \\
 **Shanghui Deng**, Wenjie Zhang, Li Xu, Jingmin Yang<sup>*</sup>  IEEE Sensors Journal, 2023, 23(3), 3233-3242.
 
-[**Project**](#) <strong><span class='show_paper_citations' data='p5RFs7AAAAAJ:d1gkVwhDpl0C'></span></strong>
+[**Project**](#) <!--<strong><span class='show_paper_citations' data='p5RFs7AAAAAJ:d1gkVwhDpl0C'></span></strong>-->
 
 <!--[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
 - FastSpeech is the first fully parallel end-to-end speech synthesis model.
 - **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
 - **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIA GTC2020](https://resources.nvia.com/events/GTC2020s21420).-->
+
 </div>
 </div>
 - [VTIL: A Multi-Layer Indoor Location Algorithm for RSSI Images Based on Vision Transformer](https://iopscience.iop.org/article/10.1088/2631-8695/ad213b), Heng Zhou, Jingmin Yang<sup>*</sup>, **Shanghui Deng**, Wenjie Zhang, Engineering Research Express, 2024
