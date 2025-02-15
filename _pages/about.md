@@ -29,13 +29,13 @@ I am currently a PhD candidate at the School of [Computer Science](https://cs.cu
 - \[*2022.07.25*\]: One paper has been accepted to Sensors!
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/rrifloc.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/scSPAF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RRIFLoc: Radio Robust Image Fingerprint Indoor Localization Algorithm Based on Deep Residual Networks](https://ieeexplore.ieee.org/abstract/document/9975263) \\
-**Shanghui Deng**, Wenjie Zhang, Li Xu, Jingmin Yang<sup>*</sup>  IEEE Sensors Journal, 2023, 23(3), 3233-3242.
+**scSPAF: Cell Similarity Purified  Adaptive Fusion Network for Single-Cell Multi-Omics Clustering** \\
+**Shanghui Deng**, Chang Tang, Xinwang Liu, Xiao Zheng, Yuanyuan Liu, Shan An, Under Review.\\
+\[PDF\]\[BibTex\][Code(Github)](https://github.com/Shanghui-Deng/scSPAF)
 
-[**Project**](#) <!--<strong><span class='show_paper_citations' data='p5RFs7AAAAAJ:d1gkVwhDpl0C'></span></strong>-->
 
 <!--[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 - FastSpeech is the first fully parallel end-to-end speech synthesis model.
