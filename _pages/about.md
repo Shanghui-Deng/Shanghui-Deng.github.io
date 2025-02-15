@@ -29,11 +29,22 @@ I am currently a PhD candidate at the School of [Computer Science](https://cs.cu
 - \[*2022.07.25*\]: One paper has been accepted to Sensors!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DEMO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Cross-level Interaction and Multi-granularity Contrastive Learning for Multi-view Clustering** \\
+**Shanghui Deng**, Chang Tang, Chuankun Li, Xingchen Hu, Sen Xiang, Xinzhong Zhu, Xinwang Liu\\
+Under Review.\\
+\[PDF\] \[BibTex\] [Code(Github)](https://github.com/Shanghui-Deng/CLMGC)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/scSPAF.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **scSPAF: Cell Similarity Purified  Adaptive Fusion Network for Single-Cell Multi-Omics Clustering** \\
-**Shanghui Deng**, Chang Tang, Xinwang Liu, Xiao Zheng, Yuanyuan Liu, Shan An, Under Review.\\
+**Shanghui Deng**, Chang Tang, Xinwang Liu, Xiao Zheng, Yuanyuan Liu, Shan An\\
+Under Review.\\
 \[PDF\] \[BibTex\] [Code(Github)](https://github.com/Shanghui-Deng/scSPAF)
 </div>
 </div>
