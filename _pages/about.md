@@ -34,7 +34,8 @@ I am currently a PhD candidate at the School of [Computer Science](https://cs.cu
 
 [RRIFLoc: Radio Robust Image Fingerprint Indoor Localization Algorithm Based on Deep Residual Networks](https://ieeexplore.ieee.org/abstract/document/9975263) \\
 **Shanghui Deng**, Wenjie Zhang, Li Xu, Jingmin Yang<sup>*</sup>  IEEE Sensors Journal, 2023, 23(3), 3233-3242.
-[**Project**]() <strong><span class='show_paper_citations' data='p5RFs7AAAAAJ:d1gkVwhDpl0C'></span></strong>
+
+[**Project**](#) <strong><span class='show_paper_citations' data='p5RFs7AAAAAJ:d1gkVwhDpl0C'></span></strong>
 
 
 <!--[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
