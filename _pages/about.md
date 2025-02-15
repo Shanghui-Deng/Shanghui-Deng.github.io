@@ -35,10 +35,9 @@ I am currently a PhD candidate at the School of [Computer Science](https://cs.cu
 **scSPAF: Cell Similarity Purified  Adaptive Fusion Network for Single-Cell Multi-Omics Clustering** \\
 **Shanghui Deng**, Chang Tang, Xinwang Liu, Xiao Zheng, Yuanyuan Liu, Shan An, Under Review.\\
 \[PDF\] \[BibTex\] [Code(Github)](https://github.com/Shanghui-Deng/scSPAF)
-
-
 </div>
 </div>
+
 - [VTIL: A Multi-Layer Indoor Location Algorithm for RSSI Images Based on Vision Transformer](https://iopscience.iop.org/article/10.1088/2631-8695/ad213b), Heng Zhou, Jingmin Yang<sup>*</sup>, **Shanghui Deng**, Wenjie Zhang, Engineering Research Express, 2024
 - [RRIFLoc: Radio Robust Image Fingerprint Indoor Localization Algorithm Based on Deep Residual Networks](https://ieeexplore.ieee.org/abstract/document/9975263), **Shanghui Deng**, Wenjie Zhang, Li Xu, Jingmin Yang<sup>*</sup>, IEEE Sensors Journal, 2023.
 - [Wi-Fi Indoor 3D Localization Algorithm Based on Multi-Classifier Fusion](https://iopscience.iop.org/article/10.1088/2631-8695/ac8b63), Caixia Wu, Wenjie Zhang, Jingmin Yang<sup>*</sup>, **Shanghui Deng**, Engineering Research Express, 2022
