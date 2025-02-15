@@ -37,7 +37,6 @@ I am currently a PhD candidate at the School of [Computer Science](https://cs.cu
 
 [**Project**](#) <strong><span class='show_paper_citations' data='p5RFs7AAAAAJ:d1gkVwhDpl0C'></span></strong>
 
-
 <!--[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - FastSpeech is the first fully parallel end-to-end speech synthesis model.
@@ -46,7 +45,7 @@ I am currently a PhD candidate at the School of [Computer Science](https://cs.cu
 </div>
 </div>
 - [VTIL: A Multi-Layer Indoor Location Algorithm for RSSI Images Based on Vision Transformer](https://iopscience.iop.org/article/10.1088/2631-8695/ad213b), Heng Zhou, Jingmin Yang<sup>*</sup>, **Shanghui Deng**, Wenjie Zhang, Engineering Research Express, 2024
-- [RRIFLoc: Radio Robust Image Fingerprint Indoor Localization Algorithm Based on Deep Resual Networks](https://ieeexplore.ieee.org/abstract/document/9975263), **Shanghui Deng**, Wenjie Zhang, Li Xu, Jingmin Yang<sup>*</sup>, IEEE Sensors Journal, 2023.
+- [RRIFLoc: Radio Robust Image Fingerprint Indoor Localization Algorithm Based on Deep Residual Networks](https://ieeexplore.ieee.org/abstract/document/9975263), **Shanghui Deng**, Wenjie Zhang, Li Xu, Jingmin Yang<sup>*</sup>, IEEE Sensors Journal, 2023.
 - [Wi-Fi Indoor 3D Localization Algorithm Based on Multi-Classifier Fusion](https://iopscience.iop.org/article/10.1088/2631-8695/ac8b63), Caixia Wu, Wenjie Zhang, Jingmin Yang<sup>*</sup>, **Shanghui Deng**, Engineering Research Express, 2022
 - [Calibration-Free 3D Indoor Positioning Algorithms Based on DNN and DIFF](https://www.mdpi.com/1424-8220/22/15/5891), Jingmin Yang<sup>*</sup>, **Shanghui Deng**, Li Xu, Wenjie Zhang, Sensors, 2022
 - [An Adaptive Calibration Algorithm Based on RSSI and LDPLM for Indoor Ranging and Positioning](https://www.mdpi.com/1424-8220/22/15/5689), Jingmin Yang<sup>*</sup>, **Shanghui Deng**, Minmin Lin, Li Xu, Sensors, 2022
