@@ -8,6 +8,9 @@
       {% endif %}
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
+    <div class='column' style="width:95%">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=bTUeFwn7GnW8HpxHJQQp3AwtOGbnQODx3jSpiSiKmcQ&cl=ffffff&w=a"></script>
+    </div>
     {% endfor %}
   {% endif %}
   </div>
