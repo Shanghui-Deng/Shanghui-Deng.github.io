@@ -33,7 +33,7 @@ I am currently a PhD candidate at the School of [Computer Science](https://cs.cu
 <div class='paper-box-text' markdown="1">
   
 **Cross-level Interaction and Multi-granularity Contrastive Learning for Multi-view Clustering** \\
-**Shanghui Deng**, Chang Tang~✉️, Chuankun Li, Xingchen Hu, Sen Xiang, Xinzhong Zhu, Xinwang Liu\\
+**Shanghui Deng**, Chang Tang<sup>✉️</sup>, Chuankun Li, Xingchen Hu, Sen Xiang, Xinzhong Zhu, Xinwang Liu\\
 Under Review\\
 \[PDF\] \[BibTex\] \[[Code(Github)](https://github.com/Shanghui-Deng/CLMGC)\]
 </div>
