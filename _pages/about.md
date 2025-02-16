@@ -62,7 +62,7 @@ Under Review\\
 - *2019.12* National scholarship.
 - *2018.11* National encouragement scholarship.
 
-# 📖 Educations
+# 🎓 Educations
 - *2023.09 - today*, School of Computer Science, China University of Geosciences, Wuhan, China. 
 - *2020.09 - 2023.06*, School of Computer Science, Minnan Normal University, Zhangzhou, China. 
 - *2016.09 - 2020.06*, School of Electronic Information Science, Fujian Jiangxia University, Fuzhou, China. 
