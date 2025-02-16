@@ -39,12 +39,7 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-/* 隐藏 ClustrMaps 在手机端 */
-@media only screen and (max-width: 767px) {
-    #clustermaps {
-        display: none;
-    }
-}
+
 .paper-box {
     display: flex;
     justify-content: left;
