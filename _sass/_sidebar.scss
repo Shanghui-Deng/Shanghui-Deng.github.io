@@ -9,9 +9,7 @@
 @media only screen and (max-width: 767px) {
     #clustrmaps {
         display: none;
-        width: 0; /* 宽度设置为 0 */
-        height: 0; /* 高度设置为 0 */
-        overflow: hidden; /* 防止内容溢出 */
+      
     }
 }
 
