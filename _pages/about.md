@@ -45,15 +45,15 @@ Under Review\\
 **scSPAF: Cell Similarity Purified  Adaptive Fusion Network for Single-Cell Multi-Omics Clustering** \\
 **Shanghui Deng**, Chang Tang, Xinwang Liu, Xiao Zheng, Yuanyuan Liu, Shan An\\
 Under Review\\
-\[PDF\] \[BibTex\] [Code(Github)](https://github.com/Shanghui-Deng/scSPAF)
+\[PDF\] \[BibTex\] \[[Code(Github)](https://github.com/Shanghui-Deng/scSPAF)\]
 </div>
 </div>
 
-- [VTIL: A Multi-Layer Indoor Location Algorithm for RSSI Images Based on Vision Transformer](https://iopscience.iop.org/article/10.1088/2631-8695/ad213b), Heng Zhou, Jingmin Yang<sup>*</sup>, **Shanghui Deng**, Wenjie Zhang, Engineering Research Express, 2024
+- [VTIL: A Multi-Layer Indoor Location Algorithm for RSSI Images Based on Vision Transformer](https://iopscience.iop.org/article/10.1088/2631-8695/ad213b), Heng Zhou, Jingmin Yang<sup>*</sup>, **Shanghui Deng**, Wenjie Zhang, Engineering Research Express, 2024.
 - [RRIFLoc: Radio Robust Image Fingerprint Indoor Localization Algorithm Based on Deep Residual Networks](https://ieeexplore.ieee.org/abstract/document/9975263), **Shanghui Deng**, Wenjie Zhang, Li Xu, Jingmin Yang<sup>*</sup>, IEEE Sensors Journal, 2023.
-- [Wi-Fi Indoor 3D Localization Algorithm Based on Multi-Classifier Fusion](https://iopscience.iop.org/article/10.1088/2631-8695/ac8b63), Caixia Wu, Wenjie Zhang, Jingmin Yang<sup>*</sup>, **Shanghui Deng**, Engineering Research Express, 2022
+- [Wi-Fi Indoor 3D Localization Algorithm Based on Multi-Classifier Fusion](https://iopscience.iop.org/article/10.1088/2631-8695/ac8b63), Caixia Wu, Wenjie Zhang, Jingmin Yang<sup>*</sup>, **Shanghui Deng**, Engineering Research Express, 2022.
 - [Calibration-Free 3D Indoor Positioning Algorithms Based on DNN and DIFF](https://www.mdpi.com/1424-8220/22/15/5891), Jingmin Yang<sup>*</sup>, **Shanghui Deng**, Li Xu, Wenjie Zhang, Sensors, 2022
-- [An Adaptive Calibration Algorithm Based on RSSI and LDPLM for Indoor Ranging and Positioning](https://www.mdpi.com/1424-8220/22/15/5689), Jingmin Yang<sup>*</sup>, **Shanghui Deng**, Minmin Lin, Li Xu, Sensors, 2022
+- [An Adaptive Calibration Algorithm Based on RSSI and LDPLM for Indoor Ranging and Positioning](https://www.mdpi.com/1424-8220/22/15/5689), Jingmin Yang<sup>*</sup>, **Shanghui Deng**, Minmin Lin, Li Xu, Sensors, 2022.
 
 
 # 🎖 Honors and Awards
@@ -68,7 +68,7 @@ Under Review\\
 - *2016.09 - 2020.06*, School of Electronic Information Science, Fujian Jiangxia University, Fuzhou, China. 
 
 
-# 💻 Academic Activities
+# 💻 Academic Services
 - Journal Reviewers of IEEE TMM, IEEE TKDE, IEEE TBD, ESWA, IEEE JBHI, IEEE Sensors Journal, IET Communications, Cluster Computing, Computing, Measurement Science and Technology, Scientific Reports, and Wireless Personal Communications.
 
 - Conference Reviewer of AAAI 2024, CVPR 2025.
