@@ -31,6 +31,7 @@ I am currently a PhD candidate at the School of [Computer Science](https://cs.cu
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DEMO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
 **Cross-level Interaction and Multi-granularity Contrastive Learning for Multi-view Clustering** \\
 **Shanghui Deng**, Chang Tang, Chuankun Li, Xingchen Hu, Sen Xiang, Xinzhong Zhu, Xinwang Liu\\
 Under Review\\
