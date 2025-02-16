@@ -9,9 +9,9 @@
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
-    
-    <a href="https://clustrmaps.com/site/1c4eg" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=bTUeFwn7GnW8HpxHJQQp3AwtOGbnQODx3jSpiSiKmcQ&cl=ffffff"></a>
-    
+    <div class= column" style="width:95%">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=bTUeFwn7GnW8HpxHJQQp3AwtOGbnQODx3jSpiSiKmcQ&cl=ffffff&w=a"></script>
+    </div>
   {% endif %}
   </div>
 {% endif %}
