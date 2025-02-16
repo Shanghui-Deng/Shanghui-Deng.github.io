@@ -40,7 +40,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 /* 隐藏 ClustrMaps 在手机端 */
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 200px) {
     #clustermaps {
         display: none;
     }
